@@ -1,0 +1,17 @@
+5
+vas
+fa
+34
+vergne
+ur
+50
+gardonyi
+eger
+400
+akos
+ember
+12
+gardonyi
+m
+2
+gardonyi

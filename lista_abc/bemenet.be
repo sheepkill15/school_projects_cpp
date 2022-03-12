@@ -1,0 +1,11 @@
+5
+1
+jozsi
+4
+pista
+39
+jancsi
+19
+bela
+2
+janos
